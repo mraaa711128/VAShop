@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F5E7890A-5F7E-4BA0-8A50-E78EBA3ED302</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VAShop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96720BC63E3ECD7456A700BCECCC694977B8B035</key>
+		<string>https://github.com/mraaa711128/VAShop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VAShop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96720BC63E3ECD7456A700BCECCC694977B8B035</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mraaa711128/VAShop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96720BC63E3ECD7456A700BCECCC694977B8B035</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96720BC63E3ECD7456A700BCECCC694977B8B035</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VAShop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
